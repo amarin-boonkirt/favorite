@@ -7,6 +7,7 @@ favorite things
 - [Docker GUI](#dockergui)
 - [Python](#python)
 - [Machine Learning](#machinelearning)
+- [IDEs](#ides)
 - [Book](#book)
 
 ## Container
@@ -21,5 +22,11 @@ favorite things
 
 ## Machine Learning
 
+## IDEs
+- [Eclipse](https://www.eclipse.org/) - Elipse IDE good for PHP, Perl, Python, Java ETC.
+- [LiClipse](https://www.liclipse.com/download.html) - IDE base on Eclipse have Python bundle.
+- [Aptana Studio](http://www.aptana.com/) - IDE base on Eclipse have Web development bundle.
+
 ## Book
 - [Linux Programming](https://github.com/shihyu/Linux_Programming/tree/master/books) - Linux Programming.
+
