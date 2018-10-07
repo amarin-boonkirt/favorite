@@ -29,4 +29,6 @@ favorite things
 
 ## Book
 - [Linux Programming](https://github.com/shihyu/Linux_Programming/tree/master/books) - Linux Programming.
+- [Security analysis of Docker containers in a production environment](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2451326/17303_FULLTEXT.pdf) - Security analysis of Docker containers in a production environment -Jon-Anders Kabbe.
+
 
