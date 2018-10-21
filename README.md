@@ -19,6 +19,7 @@ favorite things
 
 ## Python
 - [Awesome Python](https://github.com/vinta/awesome-python) - Awesome Python.
+- [Awesome Django](http://awesome-django.com) - Awesome Django.
 
 ## Machine Learning
 
