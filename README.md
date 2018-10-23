@@ -10,7 +10,9 @@ favorite things
 - [IDEs](#ides)
 - [Book](#book)
 
-## Container
+## Docker
+- Running GUI Applications inside Docker Containers https://medium.com/@SaravSun/running-gui-applications-inside-docker-containers-83d65c0db110
+- https://github.com/yongjhih/docker-android-studio
 
 ## Docker GUI
 - [Kitematic](https://kitematic.com/) - Simple Docker GUI run on pc awesome for newbie.
