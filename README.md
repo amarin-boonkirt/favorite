@@ -23,6 +23,7 @@ favorite things
 - [Awesome Python](https://github.com/vinta/awesome-python) - Awesome Python.
 - [Awesome Django](http://awesome-django.com) - Awesome Django.
 - [Getting Started with Python and MongoDB](https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb) - Getting Started with Python and MongoDB
+- [Python Fiddle](http://pythonfiddle.com/) - test, share.
 
 ## Machine Learning
 
