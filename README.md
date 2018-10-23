@@ -3,7 +3,7 @@ favorite things
 
 ## Contents
 
-- [Container](#container)
+- [Docker](#docker)
 - [Docker GUI](#dockergui)
 - [Python](#python)
 - [Machine Learning](#machinelearning)
