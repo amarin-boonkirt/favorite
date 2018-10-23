@@ -37,4 +37,7 @@ favorite things
 - [Machine Learning Yearning] - Machine Learning Yearning - Dr. Andrew Ng.
 - http://cs109.github.io/2015/
 
+## Linux Tools
+- Flash OS images to SD cards & USB drives https://etcher.io/
+
 
