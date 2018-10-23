@@ -13,6 +13,7 @@ favorite things
 ## Docker
 - Running GUI Applications inside Docker Containers https://medium.com/@SaravSun/running-gui-applications-inside-docker-containers-83d65c0db110
 - https://github.com/yongjhih/docker-android-studio
+- https://blog.sixeyed.com/how-to-dockerize-windows-applications/
 - https://hub.docker.com/r/microsoft/windowsservercore/
 
 ## Docker GUI
