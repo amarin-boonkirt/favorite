@@ -28,6 +28,7 @@ favorite things
 - [Python Fiddle](http://pythonfiddle.com/) - test, share.
 
 ## Machine Learning
+- http://www.datasciencefree.com/cheatsheets.html
 
 ## IDEs
 - [Eclipse](https://www.eclipse.org/) - Elipse IDE good for PHP, Perl, Python, Java ETC.
