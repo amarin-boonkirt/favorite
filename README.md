@@ -26,6 +26,7 @@ favorite things
 - [Awesome Django](http://awesome-django.com) - Awesome Django.
 - [Getting Started with Python and MongoDB](https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb) - Getting Started with Python and MongoDB
 - [Python Fiddle](http://pythonfiddle.com/) - test, share.
+- [Requests-HTML](https://github.com/kennethreitz/requests-html - Full JavaScript support
 
 ## Machine Learning
 - http://www.datasciencefree.com/cheatsheets.html
