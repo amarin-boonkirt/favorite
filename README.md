@@ -29,6 +29,7 @@ favorite things
 - [Requests-HTML](https://github.com/kennethreitz/requests-html) - Full JavaScript support
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT
 - [Botflow](https://github.com/kkyon/botflow) - Python Fast Dataflow programming framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc)
+- [Pampy](https://github.com/santinic/pampy) - The Pattern Matching for Python you always dreamed of.
 
 ## Machine Learning
 - http://www.datasciencefree.com/cheatsheets.html
