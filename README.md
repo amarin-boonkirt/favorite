@@ -36,6 +36,9 @@ favorite things
 ## Machine Learning
 - http://www.datasciencefree.com/cheatsheets.html
 
+## AI
+- https://github.com/fossasia?utf8=%E2%9C%93&q=susi
+
 ## IDEs
 - [Eclipse](https://www.eclipse.org/) - Elipse IDE good for PHP, Perl, Python, Java ETC.
 - [LiClipse](https://www.liclipse.com/download.html) - IDE base on Eclipse have Python bundle.
