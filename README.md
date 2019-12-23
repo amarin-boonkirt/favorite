@@ -40,6 +40,9 @@ favorite things
 ## AI
 - https://github.com/fossasia?utf8=%E2%9C%93&q=susi
 
+## Static Site Generator
+- [GatsbyJS](https://www.gatsbyjs.org/showcase)
+
 ## IDEs
 - [Eclipse](https://www.eclipse.org/) - Elipse IDE good for PHP, Perl, Python, Java ETC.
 - [LiClipse](https://www.liclipse.com/download.html) - IDE base on Eclipse have Python bundle.
